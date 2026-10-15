@@ -1,6 +1,6 @@
-# Skolyart Packages
+# Skolyart Espanso Packages
 
-This is a collection of Espanso packages created and used by Skolyart. The packages are designed for personal use but are shared publicly for anyone to fork or use.  
+This is a collection of [Espanso](https://espanso.org/) packages created and used by Skolyart. The packages are designed for personal use but are shared publicly for anyone to fork or use.  
 
 ## Usage
 

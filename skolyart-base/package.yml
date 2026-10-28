@@ -1,14 +1,9 @@
 
 matches:
   # Simple text replacement
-  - trigger: ":--"
+  - trigger: ":-- "
     replace: "–"
-  - trigger: ":->"
+  - trigger: ":--- "
+    replace: "—"
+  - trigger: ":-> "
     replace: "→"
-  - trigger: ":date "
-    replace: "{{mydate}}"
-    vars:
-      - name: mydate
-        type: date
-        params:
-          format: "%m/%d/%Y"

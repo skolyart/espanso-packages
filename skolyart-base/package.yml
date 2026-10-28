@@ -1,6 +1,5 @@
 
 matches:
-  # Simple text replacement
   - trigger: ":-- "
     replace: "–"
   - trigger: ":--- "

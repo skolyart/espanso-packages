@@ -101,4 +101,9 @@ matches:
     replace: "∫"
   - trigger: ":\\dagger "
     replace: "†"
-
+  
+  # Arithmetic
+  - trigger: ":\\pm "
+    replace: "±"
+  - trigger: ":\\mp "
+    replace: "∓"

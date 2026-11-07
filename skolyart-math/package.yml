@@ -109,3 +109,14 @@ matches:
     replace: "∓"
   - trigger: ":\\textonehalf "
     replace: "½"
+  
+  # Arrows
+
+  - trigger: ":\\searrow "
+    replace: "↘"
+  - trigger: ":\\nearrow "
+    replace: "↗"
+  - trigger: ":\\swarrow "
+    replace: "↙"
+  - trigger: ":\\nwarrow "
+    replace: "↖"
